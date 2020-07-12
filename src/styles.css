@@ -2,3 +2,10 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.star-empty {
+  fill: lightgray;
+}
+.star-filled {
+  fill: yellowgreen;
+}
